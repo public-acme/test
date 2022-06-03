@@ -1,5 +1,5 @@
 ---
-name: :memo: Documentation 
+name: Documentation 
 about: Fixing docs
 ---
 
